@@ -6,6 +6,7 @@ int main()
     printf("Hello world!\n");
     printf("54564564");
     peintf_num(5);
+    printf("55645456456456456456456");
     return 0;
 }
 
